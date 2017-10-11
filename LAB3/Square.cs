@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LAB2
+namespace LAB3
 {
     class Square : Rectangle, PrintInterface
     {
